@@ -1,0 +1,1 @@
+# iyzico-frontend-practicum-assignments
