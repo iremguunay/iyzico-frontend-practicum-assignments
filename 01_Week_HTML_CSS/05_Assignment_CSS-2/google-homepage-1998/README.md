@@ -1,4 +1,4 @@
-# CSS - Assignment 5
+# CSS - Assignment 2
 
 ## Technologies used:
 * HTML
