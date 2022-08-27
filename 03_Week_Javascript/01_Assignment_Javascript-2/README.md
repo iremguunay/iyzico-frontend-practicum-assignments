@@ -1,4 +1,4 @@
-# Javascript - Assignment 1
+# Javascript - Assignment 3
 
 ## Technologies used:
 * HTML 
